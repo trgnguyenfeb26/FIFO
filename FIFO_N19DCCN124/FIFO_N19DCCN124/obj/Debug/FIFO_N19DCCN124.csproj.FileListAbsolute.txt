@@ -1,0 +1,10 @@
+C:\Users\nguye\source\repos\FIFO_N19DCCN124\FIFO_N19DCCN124\bin\Debug\FIFO_N19DCCN124.exe.config
+C:\Users\nguye\source\repos\FIFO_N19DCCN124\FIFO_N19DCCN124\bin\Debug\FIFO_N19DCCN124.exe
+C:\Users\nguye\source\repos\FIFO_N19DCCN124\FIFO_N19DCCN124\bin\Debug\FIFO_N19DCCN124.pdb
+C:\Users\nguye\source\repos\FIFO_N19DCCN124\FIFO_N19DCCN124\obj\Debug\FIFO_N19DCCN124.csproj.AssemblyReference.cache
+C:\Users\nguye\source\repos\FIFO_N19DCCN124\FIFO_N19DCCN124\obj\Debug\FIFO_N19DCCN124.Form1.resources
+C:\Users\nguye\source\repos\FIFO_N19DCCN124\FIFO_N19DCCN124\obj\Debug\FIFO_N19DCCN124.Properties.Resources.resources
+C:\Users\nguye\source\repos\FIFO_N19DCCN124\FIFO_N19DCCN124\obj\Debug\FIFO_N19DCCN124.csproj.GenerateResource.cache
+C:\Users\nguye\source\repos\FIFO_N19DCCN124\FIFO_N19DCCN124\obj\Debug\FIFO_N19DCCN124.csproj.CoreCompileInputs.cache
+C:\Users\nguye\source\repos\FIFO_N19DCCN124\FIFO_N19DCCN124\obj\Debug\FIFO_N19DCCN124.exe
+C:\Users\nguye\source\repos\FIFO_N19DCCN124\FIFO_N19DCCN124\obj\Debug\FIFO_N19DCCN124.pdb
