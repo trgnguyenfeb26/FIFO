@@ -1,9 +1,6 @@
+# Môn HỆ ĐIỀU HÀNH
 # FIFO
 Page replacement algorithm | FIFO
-# BÁO CÁO
-# Môn HỆ ĐIỀU HÀNH
-# Giảng viên: Huỳnh Thanh Tâm
-# Sinh viên: Nguyễn Trung Nguyên
 Đề tài 7: Viết chương trình mô phỏng các giải thuật thay thế trang theo thuật toán FIFO. 
 Tên chương trình: Thuật toán thay thế trang FIFO
 Chương trình được viết bằng Window Form C#
